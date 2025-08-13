@@ -35,5 +35,5 @@ El objetivo es desplegar una VPC, una subred, un grupo de seguridad y una instan
     ```
 
 ## Capturas de pantalla
-* **Captura del sitio web en funcionamiento:** [Agregar la imagen aquí, por ejemplo: `assets/sitio-web.png`]
-* **Captura del registro de progreso exitoso en AWS Academy:** [Agregar la imagen aquí, por ejemplo: `assets/aws-academy-progreso.png`]
+* **Captura del sitio web en funcionamiento:** Desafio7-boorcamp_devops/assets
+* **Captura del registro de progreso exitoso en AWS Academy:** Desafio7-boorcamp_devops/assets
